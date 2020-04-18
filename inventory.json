@@ -1,0 +1,15 @@
+{
+  "inventario": [
+    {
+      "id": 1,
+      "nombre": "",
+      "referencia": "",
+      "Precio": "",
+      "peso": "",
+      "categoria": "",
+      "stock": "",
+      "fecha_de_creacion": "",
+      "fecha_de_ultima_venta": ""
+    }
+  ]
+}
